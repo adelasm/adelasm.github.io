@@ -29,8 +29,8 @@ export default function About() {
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
             <img
               className="object-cover object-center rounded"
-              alt="hero"
-              src="https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/433634827_10211337442788711_4631246450677787595_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=W12fxd5b9icAb5jFSMG&_nc_oc=AdjoO6thHfHCezJ4jhKabAGq5EyXslAwLOlDWm-rbvnZG9r84ceCPa1x4I75t0BDy4I&_nc_ht=scontent-cph2-1.xx&oh=00_AfBfPkGAs6_ueo77KD-rxEHl7Yc2W7EET-DcJKBjRfhG9w&oe=6615EDC3"
+              alt="mads"
+              src={require('../picture.jpg')}
             />
           </div>
         </div>
